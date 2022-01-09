@@ -5,7 +5,7 @@ This homework contains three tasks
 ## Task 01
 
 Write a program that calculates the average annual temperature.
-Also, you need to find months with the lowest and highest temperature in a year.
+Also, you need to find months with the lowest and the highest temperature in a year.
 
 Month          |  I   | II   | III |  IV  |  V   |  VI  | VII  | VIII | IX   |  X   | XI  | XII 
 ---------------|------|------|-----|------|------|------|------|------|------|------|-----|------
